@@ -1,6 +1,6 @@
 # Windows 10 Arc-Dark Firefox Theme
 
-<img align="left" src="https://raw.githubusercontent.com/math0ne/windows-firefox-arc/master/screenshot.png">
+<img align="center" src="https://raw.githubusercontent.com/math0ne/windows-firefox-arc/master/screenshot.png">
 
 &nbsp;
 
