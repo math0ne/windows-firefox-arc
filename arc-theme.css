@@ -27,6 +27,15 @@ TODO: remove vertical line seperating refresh and url bar dropdown
 
 #urlbar-zoom-button {display:none!important}
 
+/*fix fullscreen tab size*/
+
+#main-window[sizemode="maximized"] {
+  padding-top: 10px !important;
+}
+#main-window[sizemode="maximized"] #tabbrowser-tabs {
+ padding-left: 15px !important;
+}
+
 /*hide the line at bottom of toolbars*/
 
 #navigator-toolbox::after{
