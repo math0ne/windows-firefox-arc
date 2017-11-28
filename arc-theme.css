@@ -120,12 +120,12 @@ tab:not([pinned]):hover .tab-close-button {
 }
 
 #personal-bookmarks .toolbarbutton-icon {
-  list-style-image: url("file:///C:/Users/math0/Dropbox/[config]/arc-folder-icon.png") !important;
+  list-style-image: url("https://i.imgur.com/B0jfOG6.png") !important;
   -moz-image-region: rect(0px, 32px, 16px, 16px);
 }
 
 .tab-close-button {
-  list-style-image: url("file:///C:/Users/math0/Dropbox/[config]/buttons-new.png") !important;
+  list-style-image: url("https://i.imgur.com/irgDfVP.png") !important;
     background-color: #383C4A !important;
 
 }
